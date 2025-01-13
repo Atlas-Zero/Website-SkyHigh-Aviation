@@ -1,0 +1,108 @@
+Vestra	
+4.5	5	5	3	$950,000
+
+Besra	
+10	10 	10 	4 	$1,150,000
+
+Miljet	
+4	4 	4 	1.5	$1,700,000
+
+Atomic Blimp	
+5	10	6	10	 FREE (Collector's Edition)
+
+Buckingham Luxor
+10 	2.5 	8 	3.5 	$1,625,000 / Deluxe:
+$10,000,000
+
+Buckingham Shamal
+4.5 	1 	4 	3.5	$1,150,000
+
+Cargo Plane	
+8.5 	2.5 	5.5 	3 	 $0
+
+Cuban 800	
+8.5 	2.5 	6 	6.5 	$240,000
+
+Duster		
+7.5 	5 	5 	8 	$275,000
+
+Dodo		
+7.5 	2 	2.5 	32.5 	$500,000
+
+Mallard		
+8.5 	2.5 	10 	10 	$250,000
+
+Mammatus	
+7.5 	2.5 	5 	9 	$300,000
+
+P-996 Lazer	
+10 	2.5 	10 	10 	 $6,500,000
+
+Titan		
+8.5 	2.5 	5.5 	3	$2,000,000
+
+Velum	
+8 	2.5 	6 	7	$450,000
+
+Buckingham Nimbus	
+10 	4.5 	4 	1.5 	$1,900,000
+
+Buckingham Alpha-Z1	
+5.5 	7.5 	6 	0.5 	$2,121,350
+
+Mammoth Avenger	
+7.5 	4.5 	5 	0.1 	$3,450,000
+
+RM-10 Bombushka	
+8.5 	3 	1 	0 	$5,918,500
+
+Buckingham Howard NX-25	
+5.5 	7.5 	6 	0.5 	$1,296,750
+
+Mammoth Hydra	
+10 	5 	4.5 	4.5 	$3,990,000
+
+Jet	
+8.5 	2.5 	6.5 	3 	$0
+
+LF-22 Starling	
+8.5 	6.5 	6 	0.5 	$3,657,500
+
+Buckingham Luxor Deluxe	
+10 	4 	4 	1.5 	$10,000,000
+
+Mammoth Mogul	
+8.5 	3 	2.5 	0.1 	$3,125,500
+
+P-45 Nokota	
+10 	5 	4.5 	0. 	$2,653,350
+
+Buckingham Pyro	
+10 	6 	6.5 	0.5 	$4,455,500
+
+Western Company Rogue	
+10 	5 	5.5 	0.5 	$1,596,000
+
+Western Company Seabreeze	
+10 	10 	10 	0.5 	$1,130,500
+
+Buckingham Shamal	
+10 	2.5 	8 	3.5 	$1,150,000
+
+Mammoth Tula	
+7.5 	2.5 	2 	0.2 	$5,173,700
+
+Pegassi Ultralight	
+2.5 	5.5 	2 	0.1 	$665,000
+
+V-65 Molotok	
+10 	5 	4.5 	0.5 	$4,788,000
+
+JoBuilt Velum 5-Seater	
+8 	2.5 	3 	2 	$1,323,350
+
+Volatol	
+7.5 	3.5 	3 	0.1 	$3,724,000
+
+Xero Blimp	
+5 	0.1 	3 	1 	$0 
