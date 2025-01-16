@@ -11,16 +11,67 @@ body {
 
     /* before: "background: linear-gradient(to bottom, #654321, #1a0a0a 60%, #000 100%);" */
     
-    height: 100vp; /* viewport */
+    min-height: 1200px;
     background-image: url(img/sky.jpg);
+    background-color: black;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     overflow-x: hidden;
 }
+h1 {
+    font-size: 700%;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
 h2 {
     font-size: 500%;
     text-shadow: 10px 5px 5px rgba(0, 0, 0, 0.7);
+}
+p {
+    font-size: 150%;
+    font-style: oblique;
+    font-weight: 1000;
+}
+table {
+    padding: 10px;
+    margin: 30px;
+
+    font-size: 150%;
+    font-weight: 600;
+
+    border: 2px solid;
+    border-color: rgba(200, 220, 220, 1);
+    border-radius: 10px;
+    background-color: rgba(200, 220, 220, 0.3);
+}
+
+.linkrow {
+    font-size: 200%;
+    padding: 20px;
+
+    border-radius: 30px;
+    background-color: #e75e4e;
+    opacity: 0.8;
+}
+.linkrow:hover {
+    background-color: bisque;
+    opacity: 0.5;
+}
+
+.email-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 40px;
+    color: bisque;
+    background-color: #e75e4e;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    /* transition: background-color 0.3s ease; */
+}
+.email-button:hover {
+    color: #e75e4e;
+    background-color: bisque;
 }
 
 .row {
@@ -44,7 +95,7 @@ img {
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.75);
 }
 img:hover {
-    box-shadow: 0px 0px 50px rgba(150, 150, 150, 1);
+    box-shadow: 0px 0px 50px rgba(150, 150, 200, 1);
 }
 
 .bars {
@@ -63,6 +114,5 @@ img:hover {
 .percentage {
     height: 100%;
     font-weight: bold;
-    overflow: hidden;
     background-color: rgba(30, 200, 100, 0.7)
 }

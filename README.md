@@ -1,7 +1,8 @@
 ## BuyPlanes
 
-A website to promote airplanes in a game (Grand Theft Auto 5)
+A website to promote/sell airplanes in Grand Theft Auto 5 (videogame).
 
 
 ## Sources
- - Images from IGN: https://www.ign.com/wikis/gta-5/Planes 
+ - plane images: https://www.ign.com/wikis/gta-5/Planes 
+ - background: https://jooinn.com/images/sunset-553.jpg
