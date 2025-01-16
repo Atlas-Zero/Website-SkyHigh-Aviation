@@ -1,0 +1,13 @@
+Programming Project
+Create a website of your own using the web technologies introduced in this course. It is up to you to choose the topic. You will be awarded one point for each of the following
+
+:y: The website is stored as a project on any git hosting service
+:y: The repository includes a README.md file that at least clearly names the topic of your site
+:: Your website has to have at least three separate html pages
+:: You must use a separate CSS file that is included in all pages for a common formatting
+:: The pages have to contain links to each other
+:: The pages have to use a CSS background image
+:: In addition, at least one of the pages has to contain at least one image
+:: At least one basic web form has to be included (eg. a contact form)
+:: Your website has to be deployed in your user's public web directory on sandbox.bulme.at (available as https://sandbox.bulme.at/~username/)
+:: You have to do a 6 minute oral presentation of your project
