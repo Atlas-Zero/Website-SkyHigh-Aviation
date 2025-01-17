@@ -1,6 +1,7 @@
 body {
 
     font-family: 'Courier New', Courier, monospace;
+    color: black;
 
     margin: 0;
     padding: 0;
@@ -78,7 +79,7 @@ table {
     display: flex;
     justify-content: space-between;
     width: 90%;
-    padding: 20px 0;
+    padding: 20px 50px;
 }
 .half {
     display: flex;
